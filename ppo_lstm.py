@@ -2,7 +2,7 @@ import time
 from copy import deepcopy
 from typing import Any, Dict, Optional, Tuple, Type, Union
 
-import gym
+import gym #2
 import numpy as np
 import torch as th
 from gym import spaces
